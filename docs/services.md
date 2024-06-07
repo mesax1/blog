@@ -83,6 +83,8 @@ In addition to everything mentioned in Strategic Consulting, you receive:
 
 I only work with one Comprehensive Consulting client at a time.
 
+---
+
 ### Pricing
 
 Services are provided on a retainer basis, billed monthly. A deposit of 50% is required upfront, with the final 50% payable within 30 days. Subsequent payments are billed monthly.
@@ -96,6 +98,7 @@ A 50% deposit is required to start, with the remainder payable within 30 days. M
 
 If you have further questions contact me by [email](mailto:mesax1@gmail.com) or book a [paid call](https://cal.com/juanpml){:target="_blank"} for immediate help.
 
+---
 
 ## Current & Past Clients
 - [Acristo Engine](https://acristoengine.com/){:target="_blank"}: Next generation real estate software and all-inclusive assistant.

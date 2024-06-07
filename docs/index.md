@@ -4,12 +4,15 @@ I'm Juan Pablo Mesa Lopez, an **AI Engineer** with a strong background in **Data
 
 If you have questions about LLMs and RAG integrations, machine learning, or data science, feel free to [contact me](mailto:mesax1@gmail.com) or connect with me [on Twitter/X](https://twitter.com/juanpml_){:target="_blank"} or [on LinkedIn](http://www.linkedin.com/in/juan-pablo-mesa-lopez-1633b8148){:target="_blank"}. I'm eager to help.
 
+---
 
 ## AI Consulting
 
 I offering specialized [consulting services](./services.md), helping you with AI integrations and data strategies. My clients are mainly startups and a couple of established tech companies, leveraging AI to develop new tech solutions or enhance their technological capabilities and market presence.
 
 If you're looking to develop new AI solutions, integrate AI into existing tech, or need expert guidance on your AI projects, [let's connect](mailto:mesax1@gmail.com) and explore how we can drive your success together.
+
+---
 
 ## Work History
 
@@ -29,6 +32,7 @@ If you're looking to develop new AI solutions, integrate AI into existing tech, 
 
 <!-- - Developed AI-driven logistics solutions for last-mile delivery and warehouse operations. -->
 
+---
 
 ## Current & Past Clients
 - [Acristo Engine](https://acristoengine.com/){:target="_blank"}: Next generation Real Estate software and all-inclusive assistant.
@@ -42,6 +46,8 @@ If you're looking to develop new AI solutions, integrate AI into existing tech, 
 - [RideCo](https://www.rideco.com/){:target="_blank"}: Canadian company that provides on-demand transit solutions and software to help transit agencies and municipalities improve their public transportation services.
 - [Coordinadora](https://coordinadora.com/){:target="_blank"}: Colombian logistics company that provides national and international shipping services for packages and merchandise.
 - [Erco Energia](https://erco.energy/co){:target="_blank"}: Colombian company offer various services and solutions focused on renewable energy, energy management, smart metering and sustainability.
+
+---
 
 ## Awards & Scholarships
 
