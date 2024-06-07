@@ -1,4 +1,3 @@
-
 # AI Consulting Services
 
 As an AI Engineer with extensive experience in Data Science, Machine Learning, and AI integrations, I offer specialized consulting services to help startups and established tech companies leverage AI to develop innovative solutions, enhance their technological capabilities, and strengthen their market presence.
@@ -53,6 +52,7 @@ I offer two types of services, depending on your needs:
 I will provide you **On-Demand Guidance** on AI.
 
 **Topics:**
+
 - Search and Recommendation Systems
 - Vector Databases
 - RAG
@@ -63,7 +63,7 @@ I will provide you **On-Demand Guidance** on AI.
 - VRP and Metaheuristics
 
 
-I’ll give you ongoing feedback and guidance via meetings, email, slack, discord, documentation with you and your team. 
+I’ll give you ongoing feedback and guidance via meetings, email, slack, discord, or documentation with you and your team. 
 
 I can communicate with you or your team in the following languages: English, Spanish, French, and Portuguese.
 
@@ -81,16 +81,20 @@ In addition to everything mentioned in Strategic Consulting, you receive:
 - **Optimization Guidance:** Strategies to improve data collection, labeling, and quality.
 -->
 
+I only work with one Comprehensive Consulting client at a time.
+
 ### Pricing
 
-- Strategic Consulting - $3,000
-- Comprehensive Consulting: Starting at $6,000
+Services are provided on a retainer basis, billed monthly. A deposit of 50% is required upfront, with the final 50% payable within 30 days. Subsequent payments are billed monthly.
+
+- Strategic Consulting - $3,000 / Month
+- Comprehensive Consulting: Starting at $7,000 / Month
 
 <!--
 A 50% deposit is required to start, with the remainder payable within 30 days. Monthly billing thereafter. For early stage companies, I'm open to discussing equity if that aligns better with your goals.
 -->
 
-If you have further questions contact me at[email](mailto:mesax1@gmail.com) or book a [paid call](https://cal.com/juanpml) for immediate help.
+If you have further questions contact me by [email](mailto:mesax1@gmail.com) or book a [paid call](https://cal.com/juanpml){:target="_blank"} for immediate help.
 
 
 ## Current & Past Clients

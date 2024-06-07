@@ -1,7 +1,8 @@
 site_name: juanpml.com
-site_author: Jason Liu
+site_author: Juan Pablo Mesa Lopez
 site_description: >-
   Notes about AI engineering stuff I find interesting or useful.
+
 repo_name: blog
 repo_url: https://github.com/mesax1/blog/
 site_url: https://juanpml.com/
@@ -34,6 +35,14 @@ theme:
         name: Switch to light mode    
       primary: dark-blue
       accent: lime
+
+nav:
+  - Home: 
+    - Introductions: 'index.md'
+    - AI Consulting Services: "services.md"
+  - Services:
+    - AI Consulting Services: "services.md"
+  
 
 plugins:
   - social
