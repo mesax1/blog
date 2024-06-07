@@ -42,7 +42,7 @@ nav:
     - AI Consulting Services: "services.md"
   - Services:
     - AI Consulting Services: "services.md"
-  
+  - Blog: "https://blog.juanpml.com"
 
 plugins:
   - social
