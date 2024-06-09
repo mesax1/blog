@@ -87,11 +87,12 @@ I only work with one Comprehensive Consulting client at a time.
 
 ### Pricing
 
-Services are provided on a retainer basis, billed monthly. A deposit of 50% is required upfront, with the final 50% payable within 30 days. Subsequent payments are billed monthly.
+Services are provided on a retainer basis, billed either weekly or monthly. 
 
-- Strategic Consulting - $3,000 / Month
-- Comprehensive Consulting: Starting at $5,000 / Month
+- Strategic Consulting: $800/Week or $3,000/Month
+- Comprehensive Consulting:  Starting at $1350/Week or $5,000/Month
 
+For monthly retainer, a deposit of 50% is required upfront, with the final 50% payable within 30 days. Subsequent payments are billed monthly.
 <!--
 A 50% deposit is required to start, with the remainder payable within 30 days. Monthly billing thereafter. For early stage companies, I'm open to discussing equity if that aligns better with your goals.
 -->
