@@ -105,7 +105,7 @@ If you have further questions contact me by [email](mailto:mesax1@gmail.com) or 
 - [Acristo Engine](https://acristoengine.com/){:target="_blank"}: Next generation real estate software and all-inclusive assistant.
 - [Pentimenti.ai](https://www.pentimenti.ai/){:target="_blank"}: Platform that specializes in developing AI solutions to simplify and streamline the sales and tender process. Assisting businesses in proposal writing, SKI agreements, and EU tenders.
 - [Rotobot.ai](https://rotobot.ai/){:target="_blank"}: AI-driven fantasy football chatbot utilizing up-to-date sports data.
-- [Intermate.de](https://www.intermate.de/){:target="_blank"}: Is a full-service social and influencer marketing agency in Germany. Developed search and recommendation engines for content and content creators, enhancing user engagement.
+- [Intermate.de](https://www.intermate.de/){:target="_blank"}: Is a full-service social and influencer marketing agency in Germany. <!-- Developed search and recommendation engines for content and content creators, enhancing user engagement.-->
 - [Aurelio.ai](https://www.aurelio.ai/){:target="_blank"}: Diverse team of engineers and innovators that unite their expertise in Natural Language Processing (NLP), Vector Search, and AI to revolutionise the way we interact with information.
 - [Bucket.io](https://bucket.io/3/){:target="_blank"}: Fully Integrated System That Helps Your Lead Growth and Business Revenue with High-Converting QUIZ Funnels
 - [Ideaware](https://ideaware.co/){:target="_blank"}: Nearshore talent provider that helps US companies scale by connecting them with top talent from Latin America, particularly from Colombia

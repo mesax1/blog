@@ -8,7 +8,7 @@ If you have questions about LLMs and RAG integrations, machine learning, or data
 
 ## AI Consulting
 
-I offering specialized [consulting services](./services.md), helping you with AI integrations and data strategies. My clients are mainly startups and a couple of established tech companies, leveraging AI to develop new tech solutions or enhance their technological capabilities and market presence.
+I offer specialized [consulting services](./services.md), helping you with AI integrations and data strategies. My clients are mainly startups and a couple of established tech companies, leveraging AI to develop new tech solutions or enhance their technological capabilities and market presence.
 
 If you're looking to develop new AI solutions, integrate AI into existing tech, or need expert guidance on your AI projects, [let's connect](mailto:mesax1@gmail.com) and explore how we can drive your success together.
 
