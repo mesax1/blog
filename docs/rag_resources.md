@@ -10,12 +10,16 @@ This is a collection of RAG resources, either informative blogposts or tutorials
 - [Evaluating Retrieval Augmented Generation using RAGAS](https://superlinked.com/vectorhub/articles/retrieval-augmented-generation-eval-qdrant-ragas) By Superlinked Team, May, 2024
 
 - [An evaluation of RAG Retrieval Chunking Methods](https://superlinked.com/vectorhub/articles/evaluation-rag-retrieval-chunking-methods) By Superlinked Team, April, 2024
+ 
+- [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/) By Hamel Husain, March, 2024
 
 - [12 RAG Pain Points and Proposed Solutions](https://towardsdatascience.com/12-rag-pain-points-and-proposed-solutions-43709939a28c) By Wenqi Glantz, January, 2024
 
+- [A Practical Guide to RAG Pipeline Evaluation (Part 1: Retrieval)](https://blog.relari.ai/a-practical-guide-to-rag-pipeline-evaluation-part-1-27a472b09893) By Yi Zhang and Pasquale Antonante, December, 2023
+
 - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/) By Eugene Yan, July, 2023
 
--[Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) By Goku Mohandas and Philipp Moritz, October, 2023
+- [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) By Goku Mohandas and Philipp Moritz, October, 2023
 
 
 ### Practical guide to building successful LLM products
