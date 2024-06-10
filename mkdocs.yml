@@ -40,8 +40,11 @@ nav:
   - Home: 
     - Introductions: 'index.md'
     - AI Consulting Services: "services.md"
+    - RAG Resources: "rag_resources.md"
+    - Blog: "https://blog.juanpml.com"
   - Services:
     - AI Consulting Services: "services.md"
+
   - Blog: "https://blog.juanpml.com"
 
 plugins:
