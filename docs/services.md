@@ -1,107 +1,80 @@
 # AI Consulting Services
 
-As an AI Engineer with extensive experience in Data Science, Machine Learning, and AI integrations, I offer specialized consulting services to help startups and established tech companies leverage AI to develop innovative solutions, enhance their technological capabilities, and strengthen their market presence.
+Are you a founder or tech leader grappling with these AI challenges?
 
-My expertise spans a wide range of AI applications, including:
+- "How can we improve our search functionality to deliver more relevant results?"
+- "What's the best way to implement a recommendation system that truly engages our users?"
+- "How can we use Retrieval-Augmented Generation (RAG) to enhance our chatbot's responses?"
+- "We have a large volume of complex PDFs. How can AI help us extract and process this information efficiently?"
+- "How can we ensure our AI-powered search respects user privacy while still being personalized?"
+- "What's the best approach to implement semantic search in our application?"
+- "We want to leverage AI within our company, where can we start?
+- "We have data, but how do we turn it into actionable insights?"
+- "Is our current AI strategy actually aligned with our business goals?"
+- "How can we integrate Large Language Models (LLMs) into our product effectively?"
+- "Are we using the right AI tools and frameworks for our specific needs?"
+
+If you're asking yourself any of these questions, you're in the right place.
+
+## Who Am I?
+
+I'm Juan Pablo Mesa Lopez, an AI consultant with a Ph.D in Engineering, specializing in Artificial Intelligence and Data-Driven Vehicle Routing Problems (VRP). My unique blend of academic rigor and practical experience allows me to tackle complex AI challenges and deliver tangible results for startups and established tech companies alike.
+
+## What I Offer
+
+As an AI Engineer with extensive experience in Data Science, Machine Learning, and AI integrations, I offer specialized consulting services to help you navigate the complex world of AI and harness its power for your business.
+
+My expertise spans:
 
 - Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) integrations
 - Search and Recommendation systems
+- Processing and information extraction from complex documents
 - Vehicle Routing Problems (VRP)
 - Data-driven decision making
-
-My approach is hands-on and pragmatic. My goal is to help you optimize time and effort by sharing my lessons and providing clear guidance on what to focus in and what to build. 
-
-If you're looking to develop new AI solutions, integrate AI into existing tech, or need expert guidance on your AI projects, [email me](mailto:mesax1@gmail.com) and explore how we can drive your success together.
-
----
-
-
-<!---## What do I do?
-
-My expertise includes retrieval-augmented generation (RAG), large language models (LLMs), and advanced recommendation systems, vehicle routing problems (VRP), among other data-driven solutions.
-
-!!! question "What does working with me look like?"
-
-    Here are some kinds of projects I can help with:
-
-    * **Auditing**: Identify gaps in your AI strategy and for example, improving [RAG applications](./writing/posts/levels-of-rag.md) and query understanding.
-    * **Product Vision**: Work together to align your product vision with company goals and set up successful data engineering practices.
-    * **Launch**: Ensure [observability](./writing/posts/llmops.md) during launch to collect essential data for a strong data strategy.
-    * **Coaching**: Enhance team performance with goal setting, metric definition, and skills development.
-    * **Prompt Prototyping**: Develop custom prompts and extraction pipelines and evaluations.
-
-    Make these decisions with someone who's done it before.  Shoot me an [email](mailto:jason+hire@jxnl.co) about what problems you're facing and we can set up a time to chat.
-
-    Here are some types of projects I can assist with:
-
-    * **AI Strategy Optimization**: Enhance your AI applications, improving systems like RAG and embedding fine-tuning.
-    * **Product Vision Alignment**: Collaborate to synchronize your AI strategies with broader business objectives, establishing robust data engineering frameworks.
-    * **Product Launch Support**: Ensure critical data collection and system observability during product launches to solidify your data strategy.
-    * **Team Coaching**: Bolster your team's effectiveness through strategic planning, metric establishment, and ongoing skill development.
-    * **Prompt and Model Prototyping**: Create specialized prompts and models tailored to your specific needs and industries.
-
-    Collaborate with a seasoned expert to navigate these complexities. Reach out via [email](mailto:mesax1@gmail.com) to discuss your AI challenges and set up a consultation.
--->
-
-## What do I offer?
-
-I offer two types of services, depending on your needs:
-
-### 1. Strategic Consulting
-
-I will provide you **On-Demand Guidance** on AI.
-
-**Topics:**
-
-- Search and Recommendation Systems
-- Vector Databases
-- RAG
-- AI-Agents
-- Fine-Tuning LLMs
-- Observability and Evals
-- Data Science and ML
-- VRP and Metaheuristics
+- AI strategy development and optimization
+- Product vision alignment
+- Launch support and observability
+- Team coaching and upskilling
+- Metaheuristics for real-life operations optimization
 
 
-I’ll give you ongoing feedback and guidance via meetings, email, slack, discord, or documentation with you and your team. 
+## How We Work Together
 
-I can communicate with you or your team in the following languages: English, Spanish, French, and Portuguese.
+I offer a focused, hands-on consulting and development package designed to drive significant progress in your AI initiatives:
 
-### 2. Comprehensive Consulting
+### Comprehensive AI Consulting Package
 
-I partner with your team to develop their AI capabilities through direct collaboration. This option is best for startups and small engineering teams that are looking to fast-forward their AI development, assess what's possible with current AI technologies, and enhance their team's AI knowledge and abilities.
+Clients should expect to invest at least $16,000 over a period of 2 months to develop or improve their AI product. This package includes:
 
-In addition to everything mentioned in Strategic Consulting, you receive:
+1. **AI Strategy Audit & Roadmap**: We'll assess your current AI capabilities and develop a tailored roadmap aligned with your business goals.
+2. **Prototype Development**: I'll work hands-on to build and refine AI prototypes that validate your concepts and demonstrate value quickly.
+3. **Team Upskilling**: Through workshops and hands-on training, I'll enhance your team's AI capabilities, ensuring they can carry the work forward.
+4. **Implementation Support**: My team and I will guide your team through the implementation process, ensuring best practices are followed and pitfalls are avoided.
+5. **Fullstack Solution Development**: Beyond AI, my team can develop and implement complete fullstack solutions, integrating AI seamlessly into your existing systems or building new ones from the ground up.
+6. **Ongoing Consultation**: Regular check-ins and on-demand support throughout the engagement to address challenges as they arise.
 
-- **Hands-On Implementation:** I'll work on prototypes and production ready code for your AI/ML products or projects.
-- **Teach and Upskill:** I'll teach and accompany members of your team to upskill them on AI.
-- **Team Growth & Hiring:** I will also help you source off-shore talent for your software development needs.
-<!--
-- **Data & Production Support:** Assistance in building and launching data-driven products, with a focus on continuous improvement and production readiness.
-- **Optimization Guidance:** Strategies to improve data collection, labeling, and quality.
--->
+This focused package is designed to provide substantial value and progress in a short timeframe. Depending on your specific needs, we can discuss additional services or extended engagements.
 
-I only work with one Comprehensive Consulting client at a time.
+## Why Work With Me?
 
----
+- **Academic Rigor**: With a PhD in AI and VRP, I bring depth of knowledge to complex problems.
+- **Hands-on Experience**: I've successfully implemented AI solutions (ML, RAG, LLMs) across various industries.
+- **Pragmatic Approach**: I focus on practical, results-driven strategies that align with your business objectives.
+- **Multilingual Communication**: I can work with your team in English, Spanish, French, or Portuguese.
+- **Rapid Results**: My focused approach delivers tangible outcomes within two months.
+- **Fullstack Capabilities**: My team doesn't just do AI - we can build and implement complete, production-ready solutions.
+- **End-to-End Support**: From strategy to implementation, we've got you covered across the entire development lifecycle.
 
-### Pricing
+## Next Steps
 
-Services are provided on a retainer basis, billed either weekly or monthly. 
+Ready to transform your AI initiatives and build a strong foundation for future growth? Let's talk. 
 
-- Strategic Consulting: $600/Week or $2,200/Month
-- Comprehensive Consulting:  Starting at $1350/Week or $5,000/Month
-
-For monthly retainer, a deposit of 50% is required upfront, with the final 50% payable within 30 days. Subsequent payments are billed monthly.
-<!--
-A 50% deposit is required to start, with the remainder payable within 30 days. Monthly billing thereafter. For early stage companies, I'm open to discussing equity if that aligns better with your goals.
--->
-
-If you have further questions contact me by [email](mailto:mesax1@gmail.com) or book a [paid call](https://cal.com/juanpml){:target="_blank"} for immediate help.
+[Book a Discovery Call](mailto:mesax1@gmail.com) to discuss your specific challenges and how we can work together to address them.
 
 ---
 
 ## Current & Past Clients
+- [Emerge Haus](https://www.emerge.haus/){:target="_blank"}: AI company that offers end-to-end services for developing and launching AI products and solutions.
 - [Acristo Engine](https://acristoengine.com/){:target="_blank"}: Next generation real estate software and all-inclusive assistant.
 - [Pentimenti.ai](https://www.pentimenti.ai/){:target="_blank"}: Platform that specializes in developing AI solutions to simplify and streamline the sales and tender process. Assisting businesses in proposal writing, SKI agreements, and EU tenders.
 - [Rotobot.ai](https://rotobot.ai/){:target="_blank"}: AI-driven fantasy football chatbot utilizing up-to-date sports data.
