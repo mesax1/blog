@@ -6,12 +6,43 @@ If you have questions about LLMs and RAG integrations, machine learning, or data
 
 ---
 
-## AI Consulting
+## AI Consulting: From Concept to Production
 
-I offer specialized [consulting services](./services.md), helping you with AI integrations and data strategies. My clients are mainly startups and a couple of established tech companies, leveraging AI to develop new tech solutions or enhance their technological capabilities and market presence.
+**Struggling to turn your AI ideas into reality?** I specialize in helping startups and established tech companies bridge the gap between AI concepts and production-ready solutions. My clients leverage my expertise in **LLMs, RAG, Search, Evaluations, Recommendation systems, and data-driven decision-making** to achieve tangible business outcomes.
 
-If you're looking to develop new AI solutions, integrate AI into existing tech, or need expert guidance on your AI projects, [let's connect](mailto:mesax1@gmail.com) and explore how we can drive your success together.
+**Are you facing these challenges?**
 
+*   Difficulty integrating AI into existing products or workflows?
+*   Uncertainty about the right AI strategy for your business goals?
+*   Struggles with scaling AI prototypes to production-level systems?
+
+**If so, I can help.** I offer specialized [consulting services](./services.md) designed to take your AI projects from ideation to successful deployment.
+
+**See how I've helped companies like yours:**
+
+
+
+## Some of my clients
+
+| Client                                        | Description                                                                                                                 | Industry              |
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| [Anaconda Org](https://anaconda.org/)        | Platform that provides data science tools, MLOps, and data & model management.                         | AI, Data, & Developer Tools|
+| [Xficient](https://xficient.com/)        | AI-powered healthcare documentation administration                    | Healthcare|
+| [Bonded LP](https://www.bondedlp.com/)        | Design, installation, inspection, and certification of lightning protection systems                                              | Construction and safety|
+| [Emerge Haus](https://www.emerge.haus/)       | AI company that offers end-to-end services for developing and launching AI products and solutions                           | AI & Software Development                   |
+| [Pentimenti.ai](https://www.pentimenti.ai/)    | Platform that specializes in developing AI solutions to simplify and streamline the sales and tender process.  | AI / Sales            |
+| [Rotobot.ai](https://rotobot.ai/)              | AI-driven fantasy football chatbot utilizing up-to-date sports data                                                        | AI & Sports Analytics     |
+| [Intermate.de](https://www.intermate.de/)      | Full-service social and influencer marketing agency in Germany                                                             | Marketing                 |
+| [Bucket.io](https://bucket.io/3/)              | Fully Integrated System That Helps Your Lead Growth and Business Revenue with High-Converting QUIZ Funnels                   | Marketing Technology  |
+| [RideCo](https://www.rideco.com/)              | Canadian company that provides on-demand transit solutions and software to help transit agencies and municipalities improve their public transportation services. | Transit Technology    |
+| [Coordinadora](https://coordinadora.com/)      | Colombian logistics company that provides national and international shipping services for packages and merchandise.          | Transportation & Logistics             |
+| [Erco Energia](https://erco.energy/co)         | Colombian company offering various services and solutions focused on renewable energy, energy management, smart metering, and sustainability. | Renewable Energy      |
+
+... including others like [Aurelio.ai](https://www.aurelio.ai/), [12Tren](https://12tren.com/), [Acristo Engine](https://acristoengine.com/), [Ideaware](https://ideaware.co/), and [Universidad EAFIT](https://www.eafit.edu.co/).
+
+[:material-briefcase: Look at my services](./services.md){ .md-button .md-button--primary }
+
+<!--
 ---
 
 ## Work History
@@ -20,34 +51,20 @@ If you're looking to develop new AI solutions, integrate AI into existing tech, 
 
 <!-- - AI lead at Rotobot.ai and developer at Aurelio.ai. -->
 
-- Software and AI Engineer, Ideaware, Colombia – 2023 - 2024
+<!-- - Software and AI Engineer, Ideaware, Colombia – 2023 - 2024
 
 <!-- - Integrated LLMs into marketing software, enhanced document-based Q&A systems.-->
 
-- Software Engineer in Algorithms & Optimization, RideCo, Canada – 2022 - 2023
+<!-- - Software Engineer in Algorithms & Optimization, RideCo, Canada – 2022 - 2023
 
 <!-- - Advanced routing algorithms for dynamic vehicle operations. -->
 
-- Data Scientist, Universidad EAFIT, Colombia – 2018 - 2022
+<!-- - Data Scientist, Universidad EAFIT, Colombia – 2018 - 2022
 
 <!-- - Developed AI-driven logistics solutions for last-mile delivery and warehouse operations. -->
 
 ---
 
-## Current & Past Clients
-- [Acristo Engine](https://acristoengine.com/){:target="_blank"}: Next generation Real Estate software and all-inclusive assistant.
-- [Pentimenti.ai](https://www.pentimenti.ai/){:target="_blank"}: Platform that specializes in developing AI solutions to simplify and streamline the sales and tender process. Assisting businesses in proposal writing, SKI agreements, and EU tenders.
-- [Rotobot.ai](https://rotobot.ai/){:target="_blank"}: AI-driven fantasy football chatbot utilizing up-to-date sports data.
-- [Intermate.de](https://www.intermate.de/){:target="_blank"}: Is a full-service social and influencer marketing agency in Germany. <!--Developed search and recommendation engines for content and content creators, enhancing user engagement.-->
-- [Aurelio.ai](https://www.aurelio.ai/){:target="_blank"}: Diverse team of engineers and innovators that unite their expertise in Natural Language Processing (NLP), Vector Search, and AI to revolutionise the way we interact with information.
-- [Bucket.io](https://bucket.io/3/){:target="_blank"}: Fully Integrated System That Helps Your Lead Growth and Business Revenue with High-Converting QUIZ Funnels
-- [Ideaware](https://ideaware.co/){:target="_blank"}: Nearshore talent provider that helps US companies scale by connecting them with top talent from Latin America, particularly from Colombia
-- [12Tren](https://12tren.com/){:target="_blank"}: Platform that facilitates the direct purchase of products from factories to families, communities, and homes at prices significantly lower than those found in traditional market channels.
-- [RideCo](https://www.rideco.com/){:target="_blank"}: Canadian company that provides on-demand transit solutions and software to help transit agencies and municipalities improve their public transportation services.
-- [Coordinadora](https://coordinadora.com/){:target="_blank"}: Colombian logistics company that provides national and international shipping services for packages and merchandise.
-- [Erco Energia](https://erco.energy/co){:target="_blank"}: Colombian company offer various services and solutions focused on renewable energy, energy management, smart metering and sustainability.
-
----
 
 ## Awards & Scholarships
 
