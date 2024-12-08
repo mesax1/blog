@@ -16,9 +16,27 @@ Are you a founder or tech leader grappling with these AI challenges?
 
 If you're asking yourself any of these questions, you're in the right place.
 
+## Some of my clients
+
+| Client                                        | Description                                                                                                                 | Industry              |
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| [Anaconda Org](https://anaconda.org/)        | Platform that provides data science tools, MLOps, and data & model management.                         | AI, Data, & Developer Tools|
+| [Xficient](https://xficient.com/)        | AI-powered healthcare documentation administration                    | Healthcare|
+| [Bonded LP](https://www.bondedlp.com/)        | Design, installation, inspection, and certification of lightning protection systems                                              | Construction and safety|
+| [Emerge Haus](https://www.emerge.haus/)       | AI company that offers end-to-end services for developing and launching AI products and solutions                           | AI & Software Development                   |
+| [Pentimenti.ai](https://www.pentimenti.ai/)    | Platform that specializes in developing AI solutions to simplify and streamline the sales and tender process.  | AI / Sales            |
+| [Rotobot.ai](https://rotobot.ai/)              | AI-driven fantasy football chatbot utilizing up-to-date sports data                                                        | AI & Sports Analytics     |
+| [Intermate.de](https://www.intermate.de/)      | Full-service social and influencer marketing agency in Germany                                                             | Marketing                 |
+| [Bucket.io](https://bucket.io/3/)              | Fully Integrated System That Helps Your Lead Growth and Business Revenue with High-Converting QUIZ Funnels                   | Marketing Technology  |
+| [RideCo](https://www.rideco.com/)              | Canadian company that provides on-demand transit solutions and software to help transit agencies and municipalities improve their public transportation services. | Transit Technology    |
+| [Coordinadora](https://coordinadora.com/)      | Colombian logistics company that provides national and international shipping services for packages and merchandise.          | Transportation & Logistics             |
+| [Erco Energia](https://erco.energy/co)         | Colombian company offering various services and solutions focused on renewable energy, energy management, smart metering, and sustainability. | Renewable Energy      |
+
+... including others like [Aurelio.ai](https://www.aurelio.ai/), [12Tren](https://12tren.com/), [Acristo Engine](https://acristoengine.com/), [Ideaware](https://ideaware.co/), and [Universidad EAFIT](https://www.eafit.edu.co/).
+
 ## Who Am I?
 
-I'm Juan Pablo Mesa Lopez, an AI consultant with a Ph.D in Engineering, specializing in Artificial Intelligence and Data-Driven Vehicle Routing Problems (VRP). My unique blend of academic rigor and practical experience allows me to tackle complex AI challenges and deliver tangible results for startups and established tech companies alike.
+I'm Juan Pablo Mesa Lopez, an Applied AI consultant with a Ph.D in Engineering, specializing in Artificial Intelligence and Data-Driven Vehicle Routing Problems (VRP). My unique blend of academic rigor and practical experience allows me to tackle complex AI challenges and deliver tangible results for startups and established tech companies alike.
 
 ## What I Offer
 
@@ -74,6 +92,7 @@ Ready to transform your AI initiatives and build a strong foundation for future 
 ---
 
 ## Current & Past Clients
+- [Bonded LP](https://www.bondedlp.com/) 
 - [Emerge Haus](https://www.emerge.haus/){:target="_blank"}: AI company that offers end-to-end services for developing and launching AI products and solutions.
 - [Acristo Engine](https://acristoengine.com/){:target="_blank"}: Next generation real estate software and all-inclusive assistant.
 - [Pentimenti.ai](https://www.pentimenti.ai/){:target="_blank"}: Platform that specializes in developing AI solutions to simplify and streamline the sales and tender process. Assisting businesses in proposal writing, SKI agreements, and EU tenders.
