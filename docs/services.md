@@ -90,18 +90,3 @@ Ready to transform your AI initiatives and build a strong foundation for future 
 [Book a Discovery Call](mailto:mesax1@gmail.com) to discuss your specific challenges and how we can work together to address them.
 
 ---
-
-## Current & Past Clients
-- [Bonded LP](https://www.bondedlp.com/) 
-- [Emerge Haus](https://www.emerge.haus/){:target="_blank"}: AI company that offers end-to-end services for developing and launching AI products and solutions.
-- [Acristo Engine](https://acristoengine.com/){:target="_blank"}: Next generation real estate software and all-inclusive assistant.
-- [Pentimenti.ai](https://www.pentimenti.ai/){:target="_blank"}: Platform that specializes in developing AI solutions to simplify and streamline the sales and tender process. Assisting businesses in proposal writing, SKI agreements, and EU tenders.
-- [Rotobot.ai](https://rotobot.ai/){:target="_blank"}: AI-driven fantasy football chatbot utilizing up-to-date sports data.
-- [Intermate.de](https://www.intermate.de/){:target="_blank"}: Is a full-service social and influencer marketing agency in Germany. <!-- Developed search and recommendation engines for content and content creators, enhancing user engagement.-->
-- [Aurelio.ai](https://www.aurelio.ai/){:target="_blank"}: Diverse team of engineers and innovators that unite their expertise in Natural Language Processing (NLP), Vector Search, and AI to revolutionise the way we interact with information.
-- [Bucket.io](https://bucket.io/3/){:target="_blank"}: Fully Integrated System That Helps Your Lead Growth and Business Revenue with High-Converting QUIZ Funnels
-- [Ideaware](https://ideaware.co/){:target="_blank"}: Nearshore talent provider that helps US companies scale by connecting them with top talent from Latin America, particularly from Colombia
-- [12Tren](https://12tren.com/){:target="_blank"}: Platform that facilitates the direct purchase of products from factories to families, communities, and homes at prices significantly lower than those found in traditional market channels.
-- [RideCo](https://www.rideco.com/){:target="_blank"}: Canadian company that provides on-demand transit solutions and software to help transit agencies and municipalities improve their public transportation services.
-- [Coordinadora](https://coordinadora.com/){:target="_blank"}: Colombian logistics company that provides national and international shipping services for packages and merchandise.
-- [Erco Energia](https://erco.energy/co){:target="_blank"}: Colombian company offer various services and solutions focused on renewable energy, energy management, smart metering and sustainability.
