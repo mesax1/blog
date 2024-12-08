@@ -1,0 +1,10 @@
+[data-md-color-scheme="phthalo-green"] {
+  /* Primary Colors */
+  --md-primary-fg-color: #008E45; /* Phthalocyanine Green G */
+  --md-primary-fg-color--light: #34a853; /* Lighter Shade */
+  --md-primary-fg-color--dark: #006837; /* Darker Shade */
+
+  
+  
+  /* You can define more custom properties as needed */
+} 

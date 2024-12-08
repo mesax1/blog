@@ -10,7 +10,6 @@ copyright: Copyright &copy; 2024 Juan Pablo Mesa Lopez
 theme:
   name: material
 
-
   features:
     - navigation.tabs
     - navigation.sections
@@ -23,18 +22,27 @@ theme:
     - content.code.copy
   language: en
   palette:
-    - scheme: default
+    - scheme: phthalo-green
+      primary: "#008E45"
+      accent: teal 
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: dark-blue
-      accent: purple 
+      primary: "#008E45"
+      accent: teal
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
-      accent: lime
+      primary: dark-blue
+      accent: teal
+
+  default_scheme: phthalo-green
+
+  custom_dir: docs/stylesheets
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: 
