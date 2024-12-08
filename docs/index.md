@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm Juan Pablo Mesa Lopez, an **AI Engineer** with a strong background in **Data Science and Machine Learning**, currently working as an independent consultant, specializing in integrating AI and machine learning into various applications. I focus mainly on LLMs, RAG, Search and Recommendation systems, VRP, and data-driven decisions. 
+I'm Juan Pablo Mesa Lopez, an **Applied AI Consultant** with a strong background in **Data Science and Machine Learning**, currently working as an independent consultant, specializing in integrating AI and machine learning into various applications. I focus mainly on LLMs, RAG, Search and Recommendation systems, VRP, and data-driven decisions. 
 
 If you have questions about LLMs and RAG integrations, machine learning, or data science, feel free to [contact me](mailto:mesax1@gmail.com) or connect with me [on Twitter/X](https://twitter.com/juanpml_){:target="_blank"} or [on LinkedIn](http://www.linkedin.com/in/juan-pablo-mesa-lopez-1633b8148){:target="_blank"}. I'm eager to help.
 
