@@ -77,8 +77,8 @@ This model is ideal for companies seeking continuous support, strategic advice, 
 
 **Investment:**
 
-*   **Standard Support:** $3,000 per month (weekly meetings, unlimited email/Slack access, network access)
-*   **Enhanced Support:** $6,000 per month (**daily 45-minute syncs**, unlimited email/Slack/**WhatsApp access**, network access)
+*   **Standard Consulting:** $3,000 per month (weekly meetings, unlimited email/Slack access, network access)
+*   **Enhanced Consulting:** $6,000 per month (**daily 45-minute syncs**, unlimited email/Slack/**WhatsApp access**, network access)
 
 ### Hands-On AI Consulting and Development Package
 
