@@ -19,6 +19,8 @@ Are you a Founder, CTO, or Tech leader grappling with these AI challenges?
 
 If you're asking yourself any of these questions, you're in the right place.
 
+[:material-calendar-check: Schedule Your AI Consultation](https://app.formbricks.com/s/cm4gqd5qo000113mcg2id06m6){ .md-button .md-button--primary }
+
 ## Some of my clients
 
 | Client                                        | Description                                                                                                                 | Industry              |
@@ -59,6 +61,7 @@ My expertise spans:
 - Team coaching and upskilling
 - Metaheuristics for real-life operations optimization
 
+[:material-calendar-check: Schedule Your AI Consultation](https://app.formbricks.com/s/cm4gqd5qo000113mcg2id06m6){ .md-button .md-button--primary }
 
 ## How We Work Together
 
@@ -99,6 +102,8 @@ This package is tailored for companies ready to make a serious commitment to bri
 
 This focused package is designed to provide substantial value and progress in a short timeframe, setting a strong foundation for your AI-driven future. Depending on your specific needs, we can discuss additional services or extended engagements.
 
+[:material-calendar-check: Schedule Your AI Consultation](https://app.formbricks.com/s/cm4gqd5qo000113mcg2id06m6){ .md-button .md-button--primary }
+
 ## Why Work With Me?
 
 - **Academic Rigor**: With a PhD in AI and VRP, I bring depth of knowledge to complex problems.
@@ -115,4 +120,5 @@ Ready to transform your AI initiatives and build a strong foundation for future 
 
 [Book a Discovery Call](https://app.formbricks.com/s/cm4gqd5qo000113mcg2id06m6) to discuss your specific challenges and how we can work together to address them.
 
+[:material-calendar-check: Schedule Your AI Consultation](https://app.formbricks.com/s/cm4gqd5qo000113mcg2id06m6){ .md-button .md-button--primary }
 ---
