@@ -113,6 +113,6 @@ This focused package is designed to provide substantial value and progress in a 
 
 Ready to transform your AI initiatives and build a strong foundation for future growth? Let's talk. 
 
-[Book a Discovery Call](mailto:mesax1@gmail.com) to discuss your specific challenges and how we can work together to address them.
+[Book a Discovery Call](https://app.formbricks.com/s/cm4gqd5qo000113mcg2id06m6) to discuss your specific challenges and how we can work together to address them.
 
 ---
