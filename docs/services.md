@@ -65,9 +65,9 @@ My expertise spans:
 
 ## How We Work Together
 
-I offer two primary engagement models designed to fit your specific needs and provide the right level of support for your AI initiatives: a **Subscription Consulting Model** for ongoing guidance and a focused **Hands-On AI Consulting and Development Package** for rapid project execution.
+I offer two primary engagement models designed to fit your specific needs and provide the right level of support for your AI initiatives:
 
-### Subscription Consulting Model: Your On-Demand AI Expert
+### 1. Subscription Consulting Model: Your On-Demand AI Expert
 
 This model is ideal for companies seeking continuous support, strategic advice, and access to a network of expertise. It's like having a part-time AI consultant on your team, ready to assist whenever needed.
 
@@ -78,31 +78,40 @@ This model is ideal for companies seeking continuous support, strategic advice, 
 *   **Access to My Network of Nearshore Talent:** Benefit from my network of software developers, data scientists, and AI specialists. If you need specialized expertise beyond my own, I'll connect you with the right people to build your team.
 *   **Optional Daily Syncs:** For more intensive support, you can opt for daily 45-minute syncs to accelerate progress and address issues in real-time.
 
-**Investment:**
+### 2. Hands-On AI Consulting and Development Package
 
-*   **Standard Consulting:** $3,000 per month (weekly meetings, unlimited email/Slack access, network access)
-*   **Enhanced Consulting:** $6,000 per month (**daily 45-minute syncs**, unlimited email/Slack/**WhatsApp access**, network access)
-
-### Hands-On AI Consulting and Development Package
-
-This package is tailored for companies ready to make a serious commitment to bringing their AI vision to life. It's a focused, hands-on engagement designed to deliver a production-ready AI solution or significantly enhance an existing one within a two-month timeframe.
+This package is tailored for companies ready to make a serious commitment to bringing their AI vision to life. It's a focused, hands-on engagement designed to deliver a production-ready AI solution or significantly enhance an existing one. It requires at least a two-month commitment.
 
 **What's Included:**
 
 1. **AI Strategy Audit & Roadmap:** We'll assess your current AI capabilities, identify opportunities, and develop a tailored roadmap aligned with your business goals. This ensures your AI initiatives are set up for success from the start.
-2. **Rapid Prototype Development:** I'll work hands-on to build and refine AI prototypes that validate your concepts and demonstrate value quickly. This iterative approach allows for rapid learning and adjustments.
+2. **Rapid Prototype Development:** I'll work hands-on with my team to build and refine AI prototypes that validate your concepts and demonstrate value quickly. This iterative approach allows for rapid learning and adjustments.
 3. **Team Upskilling & Empowerment:** Through workshops and hands-on training, I'll enhance your team's AI capabilities, ensuring they can confidently carry the work forward. This includes best practices in AI development, deployment, and maintenance.
 4. **Production Implementation Support:** My team and I will guide your team through the critical implementation phase, ensuring best practices are followed, pitfalls are avoided, and your AI solutions are production-ready.
 5. **Fullstack Solution Development:** Beyond AI, my team can develop and implement complete fullstack solutions, integrating AI seamlessly into your existing systems or building new ones from the ground up. This ensures a cohesive and efficient tech ecosystem.
 6. **Ongoing Consultation & Support:** Regular check-ins and on-demand support throughout the engagement to address challenges as they arise, ensuring continuous progress and success.
 
-**Investment:**
+### Investment Options
 
-*   **Expect to invest at least $25,000 over two months** to develop or significantly enhance your AI product.
+Choose the engagement model that best fits your needs:
 
-This focused package is designed to provide substantial value and progress in a short timeframe, setting a strong foundation for your AI-driven future. Depending on your specific needs, we can discuss additional services or extended engagements.
+1. **Standard Subscription Consulting:**
+   * $3,000 per month
+   * Weekly meetings
+   * Unlimited email/Slack access
+   * Network access
 
-[:material-calendar-check: Schedule Your AI Consultation](https://app.formbricks.com/s/cm4gqd5qo000113mcg2id06m6){ .md-button .md-button--primary }
+2. **Enhanced Subscription Consulting:**
+   * $6,000 per month
+   * Daily 45-minute syncs
+   * Unlimited email/Slack/WhatsApp access
+   * Network access
+
+3. **Hands-On AI Consulting and Development:**
+   * Starting at $25,000
+   * Complete hands-on development and implementation
+   * All included services as detailed above
+   * Custom scope and pricing based on project requirements
 
 ## Why Work With Me?
 
