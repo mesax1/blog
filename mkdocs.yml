@@ -52,7 +52,8 @@ nav:
     - Writing: "writing/index.md"
   - Services:
     - AI Consulting Services: "services.md"
-  - Writing: "writing/index.md"
+  - Writing: 
+    - "writing/index.md"
 
 plugins:
   - social
