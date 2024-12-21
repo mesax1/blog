@@ -3,9 +3,10 @@ authors:
 - juanpml
 categories:
 - ML
+- AI
 comments: true
 date: 2024-12-21
-description: Integrating ML and Generative AI into Your Business, Start with the Problem, Not the Solution.
+description: Focus on the problem, not the solution.
 draft: false
 tags:
 - RAG
