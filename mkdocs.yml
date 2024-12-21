@@ -49,7 +49,7 @@ nav:
     - Introductions: 'index.md'
     - AI Consulting Services: "services.md"
     - RAG Resources: "rag_resources.md"
-    - Blog: "https://blog.juanpml.com"
+    - Writing: "writing/index.md"
   - Services:
     - AI Consulting Services: "services.md"
   - Writing: "writing/index.md"
