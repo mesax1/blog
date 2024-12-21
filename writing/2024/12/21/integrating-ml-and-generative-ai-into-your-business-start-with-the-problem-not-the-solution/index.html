@@ -1,0 +1,1154 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Integrating ML and Generative AI into Your Business, Start with the Problem, Not the Solution.">
+      
+      
+        <meta name="author" content="Juan Pablo Mesa Lopez">
+      
+      
+        <link rel="canonical" href="https://juanpml.com/writing/2024/12/21/integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution/">
+      
+      
+        <link rel="prev" href="../../18/evaluating-rag-enhanced-llm-systems-beyond-model-capabilities/">
+      
+      
+      
+      <link rel="icon" href="../../../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.49">
+    
+    
+      
+        <title>Integrating ML and Generative AI into Your Business: Start with the Problem, Not the Solution - juanpml.com</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../../assets/stylesheets/main.6f8fc17f.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+      
+        <meta  property="og:type"  content="website" >
+      
+        <meta  property="og:title"  content="Integrating ML and Generative AI into Your Business: Start with the Problem, Not the Solution - juanpml.com" >
+      
+        <meta  property="og:description"  content="Integrating ML and Generative AI into Your Business, Start with the Problem, Not the Solution." >
+      
+        <meta  property="og:image"  content="https://juanpml.com/assets/images/social/writing/posts/problem_first_approach.png" >
+      
+        <meta  property="og:image:type"  content="image/png" >
+      
+        <meta  property="og:image:width"  content="1200" >
+      
+        <meta  property="og:image:height"  content="630" >
+      
+        <meta  property="og:url"  content="https://juanpml.com/writing/2024/12/21/integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution/" >
+      
+        <meta  name="twitter:card"  content="summary_large_image" >
+      
+        <meta  name="twitter:title"  content="Integrating ML and Generative AI into Your Business: Start with the Problem, Not the Solution - juanpml.com" >
+      
+        <meta  name="twitter:description"  content="Integrating ML and Generative AI into Your Business, Start with the Problem, Not the Solution." >
+      
+        <meta  name="twitter:image"  content="https://juanpml.com/assets/images/social/writing/posts/problem_first_approach.png" >
+      
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="phthalo-green" data-md-color-primary="#008E45" data-md-color-accent="teal">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../../../.." title="juanpml.com" class="md-header__button md-logo" aria-label="juanpml.com" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            juanpml.com
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Integrating ML and Generative AI into Your Business: Start with the Problem, Not the Solution
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="phthalo-green" data-md-color-primary="#008E45" data-md-color-accent="teal"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="dark-blue" data-md-color-accent="teal"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/mesax1/blog/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    blog
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../.." class="md-tabs__link">
+          
+  
+  Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../../services/" class="md-tabs__link">
+          
+  
+  Services
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="../../../../" class="md-tabs__link">
+        
+  
+    
+  
+  Writing
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../../.." title="juanpml.com" class="md-nav__button md-logo" aria-label="juanpml.com" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    juanpml.com
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/mesax1/blog/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    blog
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Home
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introductions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../../services/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI Consulting Services
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../../rag_resources/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    RAG Resources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://blog.juanpml.com" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Blog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Services
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Services
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../../services/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI Consulting Services
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      <a href="../../../../" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Writing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+  <div class="md-content md-content--post" data-md-component="content">
+    <div class="md-sidebar md-sidebar--post" data-md-component="sidebar" data-md-type="navigation">
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner md-post">
+          <nav class="md-nav md-nav--primary">
+            <div class="md-post__back">
+              <div class="md-nav__title md-nav__container">
+                <a href="../../../../" class="md-nav__link">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+                  <span class="md-ellipsis">
+                    Back to index
+                  </span>
+                </a>
+              </div>
+            </div>
+            
+              <div class="md-post__authors md-typeset">
+                
+                  <div class="md-profile md-post__profile">
+                    <span class="md-author md-author--long">
+                      <img src="https://github.com/mesax1.png" alt="Juan Pablo Mesa Lopez">
+                    </span>
+                    <span class="md-profile__description">
+                      <strong>
+                        
+                          <a href="https://x.com/intent/follow?screen_name=juanpml_">Juan Pablo Mesa Lopez</a>
+                        
+                      </strong>
+                      <br>
+                      Applied AI Consultant
+                    </span>
+                  </div>
+                
+              </div>
+            
+            <ul class="md-post__meta md-nav__list">
+              <li class="md-nav__item md-nav__item--section">
+                <div class="md-post__title">
+                  <span class="md-ellipsis">
+                    Metadata
+                  </span>
+                </div>
+                <nav class="md-nav">
+                  <ul class="md-nav__list">
+                    <li class="md-nav__item">
+                      <div class="md-nav__link">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5z"/></svg>
+                        <time datetime="2024-12-21 00:00:00+00:00" class="md-ellipsis">2024/12/21</time>
+                      </div>
+                    </li>
+                    
+                    
+                      <li class="md-nav__item">
+                        <div class="md-nav__link">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 3v15h3V3zm3 2 4 13 3-1-4-13zM5 5v13h3V5zM3 19v2h18v-2z"/></svg>
+                          <span class="md-ellipsis">
+                            in
+                            
+                              <a href="../../../../category/ml/">ML</a></span>
+                        </div>
+                      </li>
+                    
+                    
+                      
+                      <li class="md-nav__item">
+                        <div class="md-nav__link">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8m0-18a10 10 0 0 1 10 10 10 10 0 0 1-10 10C6.47 22 2 17.5 2 12A10 10 0 0 1 12 2m.5 5v5.25l4.5 2.67-.75 1.23L11 13V7z"/></svg>
+                          <span class="md-ellipsis">
+                            
+                              7 min read
+                            
+                          </span>
+                        </div>
+                      </li>
+                    
+                  </ul>
+                </nav>
+              </li>
+            </ul>
+          </nav>
+          
+            
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#why-problem-first-thinking-matters" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why Problem-First Thinking Matters
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#defining-the-opportunity-automate-tasks-not-jobs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Defining the Opportunity: Automate Tasks, Not Jobs
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#evaluating-ai-suitability-technical-feasibility-and-business-value" class="md-nav__link">
+    <span class="md-ellipsis">
+      Evaluating AI Suitability: Technical Feasibility and Business Value
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#engaging-with-customers-for-problem-discovery" class="md-nav__link">
+    <span class="md-ellipsis">
+      Engaging With Customers for Problem Discovery
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#practical-steps-for-ai-integration" class="md-nav__link">
+    <span class="md-ellipsis">
+      Practical Steps for AI Integration
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Practical Steps for AI Integration">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-map-out-current-workflows" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Map Out Current Workflows
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-model-architecture-selection" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Model &amp; Architecture Selection
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-data-preparation-flywheel-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Data Preparation &amp; Flywheel Setup
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-iterative-training-and-fine-tuning" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Iterative Training and Fine-Tuning
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-evaluation" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. Evaluation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-integration-deployment" class="md-nav__link">
+    <span class="md-ellipsis">
+      6. Integration &amp; Deployment
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#7-ongoing-monitoring-continuous-improvement" class="md-nav__link">
+    <span class="md-ellipsis">
+      7. Ongoing Monitoring &amp; Continuous Improvement
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#putting-it-all-together" class="md-nav__link">
+    <span class="md-ellipsis">
+      Putting It All Together
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusion-problem-first-for-sustainable-ai-success" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusion: Problem-First for Sustainable AI Success
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+          
+        </div>
+      </div>
+    </div>
+    <article class="md-content__inner md-typeset">
+      
+        
+
+  
+  
+
+
+<h1 id="integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution">Integrating ML and Generative AI into Your Business: Start with the Problem, Not the Solution</h1>
+<p>In the fast-moving realm of Machine Learning (ML), Generative AI (GenAI), and Retrieval-Augmented Generation (RAG), it can be tempting to jump straight into sophisticated models or cutting-edge toolkits. Yet the most critical first step is often overlooked: <strong>clearly defining the business problem you aim to solve.</strong> By taking a problem-first approach, you ensure that your AI initiatives address genuine needs, align with customer expectations, and deliver measurable value. In this article, you’ll discover how to pinpoint tasks that benefit from automation or augmentation, assess feasibility and business impact, and ultimately implement AI solutions that boost your organization’s performance.</p>
+<h2 id="why-problem-first-thinking-matters">Why Problem-First Thinking Matters</h2>
+<p>Many organizations are intrigued by the possibilities of ML, GenAI, and RAG but mistakenly adopt these technologies simply to “stay ahead.” AI should <strong>never</strong> be about hype; it should be about solving real challenges and delivering tangible results.</p>
+<ul>
+<li><strong>Identify Real-World Pain Points:</strong> Focus on the specific issues that undermine your performance or customer experience.  </li>
+<li><strong>Validate Customer Needs:</strong> Ensure that your proposed solution aligns with the priorities of those you serve.  </li>
+<li><strong>Evaluate Feasibility and Value:</strong> Look holistically at technical readiness, ROI potential, and downstream benefits before allocating substantial resources.</li>
+</ul>
+<blockquote>
+<p><strong>Ask yourself:</strong> <em>“What is the exact challenge I am trying to solve, and does AI truly add value here?”</em> If you can’t articulate the problem in a single sentence to a non-technical stakeholder, you’re likely not ready for an AI solution yet.</p>
+</blockquote>
+<hr />
+<h2 id="defining-the-opportunity-automate-tasks-not-jobs">Defining the Opportunity: Automate Tasks, Not Jobs</h2>
+<p>Despite concerns about AI replacing entire roles, the reality is more nuanced. <strong>AI excels at automating or augmenting discrete tasks</strong>, freeing human workers to focus on creativity, strategic thinking, or relationship-building.</p>
+<ol>
+<li><strong>Task Automation:</strong> Ideal for repetitive, rules-based activities (e.g., sorting email inquiries or generating weekly sales reports).  </li>
+<li><strong>Task Augmentation:</strong> Suitable for complex tasks that benefit from AI-driven support (e.g., using an AI to assist in content generation or in complex customer support tasks).</li>
+</ol>
+<blockquote>
+<p><strong>Ask Yourself:</strong> <em>What routine tasks eat up most of your employees’ time, and how could you redeploy them to higher-value work with AI assistance?</em></p>
+</blockquote>
+<hr />
+<h2 id="evaluating-ai-suitability-technical-feasibility-and-business-value">Evaluating AI Suitability: Technical Feasibility and Business Value</h2>
+<p>Deciding which tasks merit automation or augmentation requires balancing <strong>technical feasibility</strong> (TF) with <strong>business value</strong> (BV). Consider:</p>
+<ol>
+<li><strong>Technical Feasibility (TF)</strong>  </li>
+<li>Data availability and quality  </li>
+<li>Model complexity  </li>
+<li>Infrastructure readiness  </li>
+</ol>
+<p>$$
+   TF = f(\text{data quality}, \text{model complexity}, \text{infrastructure capacity})
+   $$</p>
+<ol>
+<li><strong>Business Value (BV)</strong>  </li>
+<li>Potential cost savings  </li>
+<li>Time-to-market improvement  </li>
+<li>Enhanced customer satisfaction  </li>
+</ol>
+<p>$$
+   BV = f(\text{cost reduction}, \text{operational efficiency}, \text{user satisfaction})
+   $$</p>
+<p>Combine these factors to prioritize high-impact initiatives:</p>
+<div class="arithmatex">\[
+\text{Score}(i) = \alpha \cdot TF(i) + \beta \cdot BV(i)
+\]</div>
+<p>where <span class="arithmatex">\(\alpha\)</span> and <span class="arithmatex">\(\beta\)</span> reflect your strategic weighting of feasibility versus value.</p>
+<hr />
+<h2 id="engaging-with-customers-for-problem-discovery">Engaging With Customers for Problem Discovery</h2>
+<p>Involve your customers (and end users) early and often to confirm that the pain points you’ve identified are real and pressing.  </p>
+<ul>
+<li><strong>Conduct Interviews &amp; Surveys:</strong> Gather direct feedback on their biggest frustrations and desired improvements.  </li>
+<li><strong>Prototype &amp; Demo:</strong> Test AI-driven concepts with a small subset of users to validate effectiveness.  </li>
+<li><strong>Iterate Based on Feedback:</strong> Continually refine your approach in response to real-world usage data.</li>
+</ul>
+<blockquote>
+<p><strong>Ask Yourself:</strong> <em>How often do you directly ask customers which improvements they want, instead of guessing or relying on internal assumptions?</em></p>
+</blockquote>
+<pre class="mermaid"><code>flowchart TD
+A[Identify Business Problem] --&gt; B[Customer Interviews &amp; Surveys]
+B --&gt; C[Evaluate Feasibility &amp; Value of AI Solutions]
+C --&gt;|Feasible &amp; Valuable| D[Prototype AI-Driven Solution]
+C --&gt;|Not Feasible/Valuable| E[Reassess Problem or Explore Alternatives]
+D --&gt; F[Deploy &amp; Monitor Performance]
+F --&gt; G[Collect Feedback &amp; Refine]
+G --&gt; B</code></pre>
+<blockquote>
+<p><strong>Pro Tip:</strong> Maintain a continuous feedback loop, integrating user insights at every stage to ensure your AI solutions remain aligned with evolving customer expectations.</p>
+</blockquote>
+<hr />
+<h2 id="practical-steps-for-ai-integration">Practical Steps for AI Integration</h2>
+<p>Below is a refined, step-by-step approach to incorporating GenAI, RAG, or broader ML techniques into your enterprise. These guidelines cover the technical aspects of designing and deploying AI solutions and emphasize the importance of <strong>evaluations</strong> and a <strong>data flywheel</strong> strategy to continuously improve your models using user-generated data.</p>
+<hr />
+<h3 id="1-map-out-current-workflows">1. Map Out Current Workflows</h3>
+<ol>
+<li><strong>Diagram Existing Processes</strong>  </li>
+<li>
+<p>Identify where repetitive tasks, information bottlenecks, or latency issues exist. These weak points are prime candidates for AI-driven optimization.</p>
+</li>
+<li>
+<p><strong>Pinpoint High-Impact Areas</strong>  </p>
+</li>
+<li>Prioritize tasks based on your specific business objectives (e.g., improving customer satisfaction, reducing operational costs, or boosting conversion rates).</li>
+</ol>
+<blockquote>
+<p><strong>Ask Yourself:</strong> <em>How many daily workflows in your organization could be automated or intelligently enhanced if given accurate predictions or personalized insights?</em></p>
+</blockquote>
+<hr />
+<h3 id="2-model-architecture-selection">2. Model &amp; Architecture Selection</h3>
+<ol>
+<li><strong>Assess Complexity</strong>  </li>
+<li>
+<p>Determine whether a simpler ML technique (like logistic regression) suffices or whether a more advanced architecture—such as a Large Language Model (LLM) or RAG-based system—is necessary.</p>
+</li>
+<li>
+<p><strong>Align with Task Requirements</strong>  </p>
+</li>
+<li>Choose an approach that fits the nature of your data and the level of precision required. For tasks with limited data or narrow domains, a specialized model may outperform an overgeneralized one.</li>
+</ol>
+<blockquote>
+<p><strong>Pro Tip:</strong> <strong>Start small</strong> with proof-of-concept models. Scale up your architecture only after initial results confirm that a more sophisticated technique is warranted.</p>
+</blockquote>
+<hr />
+<h3 id="3-data-preparation-flywheel-setup">3. Data Preparation &amp; Flywheel Setup</h3>
+<ol>
+<li><strong>Data Collection &amp; Cleaning</strong>  </li>
+<li>
+<p>Gather relevant datasets and standardize them (e.g., consistent formats, clear labeling). High-quality data is crucial for robust modeling.  </p>
+</li>
+<li>
+<p><strong>Design a Data Flywheel</strong>  </p>
+</li>
+<li><strong>What is a Data Flywheel?</strong><br />
+     A self-reinforcing loop in which <strong>every user interaction</strong> feeds back into the system, improving the model’s accuracy and user experience over time.  </li>
+<li><strong>How to Implement:</strong>  <ul>
+<li>Integrate <strong>user feedback loops</strong> (like thumbs-up/down or brief surveys) at key interaction points.  </li>
+<li>Capture <strong>usage patterns</strong> (e.g., click-through rates, dwell times, or purchase behaviors) to refine your model continuously.  </li>
+<li>Establish a <strong>pipeline</strong> that processes this data, retrains the model, and rolls out incremental updates in a seamless manner.</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p><strong>Warning:</strong> Aim for simplicity when collecting feedback; overly complicated rating systems can lead to data bloat and reduced user engagement.</p>
+</blockquote>
+<hr />
+<h3 id="4-iterative-training-and-fine-tuning">4. Iterative Training and Fine-Tuning</h3>
+<ol>
+<li><strong>Initial Training</strong>  </li>
+<li>
+<p>Train your model on curated, representative data. If using a Large Language Model or GenAI approach, consider domain-specific fine-tuning to capture the nuances of your industry.</p>
+</li>
+<li>
+<p><strong>User Feedback Loop</strong>  </p>
+</li>
+<li>
+<p>Incorporate user interactions into your training pipeline. For instance, if customers frequently reject certain AI-generated suggestions, analyze that data to refine your models.</p>
+</li>
+<li>
+<p><strong>Progressive Enhancement</strong>  </p>
+</li>
+<li>Roll out new model versions incrementally, monitoring performance metrics to validate improvements before a full-scale deployment.</li>
+</ol>
+<blockquote>
+<p><strong>Pro Tip:</strong> Make your retraining process <strong>modular</strong>. By structuring data flows in discrete steps, you can swap or upgrade models without overhauling the entire pipeline.</p>
+</blockquote>
+<hr />
+<h3 id="5-evaluation">5. <strong>Evaluation</strong></h3>
+<ol>
+<li><strong>Define Quantitative Metrics</strong>  </li>
+<li>
+<p>Evaluate accuracy, precision, recall, or domain-specific metrics (e.g., customer satisfaction scores). Choose metrics that clearly indicate whether the AI solution meets your predefined objectives.</p>
+</li>
+<li>
+<p><strong>Compare Against Baselines</strong>  </p>
+</li>
+<li>
+<p>Test your model against non-AI methods or previously deployed systems. This helps quantify how much real value the new approach delivers.</p>
+</li>
+<li>
+<p><strong>Qualitative Assessments</strong>  </p>
+</li>
+<li>Gather feedback from end users through interviews, surveys, or usability studies. Often, user sentiment reveals insights that raw numbers do not.</li>
+</ol>
+<hr />
+<h3 id="6-integration-deployment">6. Integration &amp; Deployment</h3>
+<ol>
+<li><strong>Pilot Rollout</strong>  </li>
+<li>
+<p>Introduce your AI feature to a small group of users or an isolated business unit. Monitor performance, gather user feedback, and address potential roadblocks early.</p>
+</li>
+<li>
+<p><strong>Broader Deployment</strong>  </p>
+</li>
+<li>
+<p>Once the pilot demonstrates stable results, integrate the AI-driven solution into main workflows. Secure executive support and cross-functional buy-in to smooth the transition.</p>
+</li>
+<li>
+<p><strong>Change Management</strong>  </p>
+</li>
+<li>Train your teams on new processes and clarifying the roles AI tools will play. Provide user-friendly documentation and ongoing support.</li>
+</ol>
+<hr />
+<h3 id="7-ongoing-monitoring-continuous-improvement">7. Ongoing Monitoring &amp; Continuous Improvement</h3>
+<ol>
+<li><strong>Real-Time Analytics</strong>  </li>
+<li>
+<p>Track performance in production environments. Monitor latency, error rates, user engagement trends, and other operational metrics in near real-time.</p>
+</li>
+<li>
+<p><strong>Automated Alerts &amp; Retraining</strong>  </p>
+</li>
+<li>
+<p>Set thresholds for key performance indicators (KPIs). If a KPI deteriorates (e.g., user satisfaction drops below a set target), trigger a retraining cycle or escalate to human review.</p>
+</li>
+<li>
+<p><strong>Data Flywheel in Action</strong>  </p>
+</li>
+<li>Continuously ingest user behavior data and feedback, refining the model to amplify what works and correct what doesn’t. Over time, the product evolves to reflect user preferences more precisely, creating a <strong>virtuous cycle</strong> that strengthens your competitive edge.</li>
+</ol>
+<hr />
+<h2 id="putting-it-all-together">Putting It All Together</h2>
+<p>These practical steps underscore the <strong>iterative, data-centric, and user-focused</strong> nature of AI integration. By establishing clear workflows, selecting the right model architecture, preparing data effectively, and systematically fine-tuning through a <strong>robust evaluation process</strong>, you set the stage for success. Crucially, the <strong>data flywheel</strong> ensures that your product doesn’t just launch and stagnate—it continually improves by leveraging user interactions, shaping an ever-more refined experience.  </p>
+<p>Remember, <strong>AI is not a magic solution</strong>—it’s a tool best wielded when you clarify your objectives, build a solid data foundation, and embrace continual learning in both technology and user engagement. By combining these pillars, your AI-driven initiatives become a strategic asset that propels your organization toward <strong>sustainable, long-term growth</strong>.</p>
+<hr />
+<h2 id="conclusion-problem-first-for-sustainable-ai-success">Conclusion: Problem-First for Sustainable AI Success</h2>
+<p>When integrating ML, GenAI, or RAG into your organization, <strong>start with a clear understanding of the business challenge</strong>. Determine which tasks can benefit from automation or augmentation, assess feasibility, and engage your customers to confirm that your proposed solutions address pressing needs. Then, follow a structured, iterative implementation process—collecting data, measuring impact, and refining your approach to keep pace with changing demands.</p>
+<p><strong>Best Practices Recap:</strong><br />
+- <strong>Focus on Problems, Not Solutions:</strong> Articulate a clear, real-world challenge before choosing any AI tool.<br />
+- <strong>Distinguish Between Automation and Augmentation:</strong> Identify whether tasks can be fully automated or merely enhanced with AI assistance.<br />
+- <strong>Evaluate Technical Feasibility and Business Value:</strong> Use a scoring system to prioritize high-impact, high-return projects.<br />
+- <strong>Engage Customers:</strong> Validate that you’re solving genuine pain points, not just investing in AI hype.<br />
+- <strong>Adopt a Continuous Improvement Mindset:</strong> Monitor, refine, and update your models regularly to maintain relevance and accuracy.</p>
+<p>By anchoring your AI initiatives in authentic problem-solving, you’ll not only avoid the pitfalls of chasing the latest trend but also unlock sustained, measurable benefits for your business. <strong>AI is a powerful enabler, not a silver bullet</strong>—and by putting the problem first, you set the stage for long-term success.</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+  
+
+
+
+      
+    </article>
+  </div>
+
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      &copy; 2024 <a href="https://github.com/mesax1"  target="_blank" rel="noopener">Juan Pablo Mesa Lopez</a>
+
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/mesax1" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M186.1 328.7c0 20.9-10.9 55.1-36.7 55.1s-36.7-34.2-36.7-55.1 10.9-55.1 36.7-55.1 36.7 34.2 36.7 55.1M480 278.2c0 31.9-3.2 65.7-17.5 95-37.9 76.6-142.1 74.8-216.7 74.8-75.8 0-186.2 2.7-225.6-74.8-14.6-29-20.2-63.1-20.2-95 0-41.9 13.9-81.5 41.5-113.6-5.2-15.8-7.7-32.4-7.7-48.8 0-21.5 4.9-32.3 14.6-51.8 45.3 0 74.3 9 108.8 36 29-6.9 58.8-10 88.7-10 27 0 54.2 2.9 80.4 9.2 34-26.7 63-35.2 107.8-35.2 9.8 19.5 14.6 30.3 14.6 51.8 0 16.4-2.6 32.7-7.7 48.2 27.5 32.4 39 72.3 39 114.2m-64.3 50.5c0-43.9-26.7-82.6-73.5-82.6-18.9 0-37 3.4-56 6-14.9 2.3-29.8 3.2-45.1 3.2-15.2 0-30.1-.9-45.1-3.2-18.7-2.6-37-6-56-6-46.8 0-73.5 38.7-73.5 82.6 0 87.8 80.4 101.3 150.4 101.3h48.2c70.3 0 150.6-13.4 150.6-101.3m-82.6-55.1c-25.8 0-36.7 34.2-36.7 55.1s10.9 55.1 36.7 55.1 36.7-34.2 36.7-55.1-10.9-55.1-36.7-55.1"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/juanpml_" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/in/juan-pablo-mesa-lopez-1633b8148/" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5m282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../../../..", "features": ["navigation.tabs", "navigation.sections", "toc.integrate", "navigation.top", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy"], "search": "../../../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../../../assets/javascripts/bundle.88dd0f4e.min.js"></script>
+      
+        <script src="../../../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
