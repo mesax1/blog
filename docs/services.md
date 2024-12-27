@@ -96,19 +96,19 @@ This package is tailored for companies ready to make a serious commitment to bri
 Choose the engagement model that best fits your needs:
 
 1. **Standard Subscription Consulting:**
-    - $3,000 per month
+    - $2,000 per month
     - Weekly meetings
     - Unlimited email/Slack access
     - Network access
 
 2. **Enhanced Subscription Consulting:**
-    - $6,000 per month
+    - $5,000 per month
     - Daily 45-minute syncs
     - Unlimited email/Slack/WhatsApp access
     - Network access
 
 3. **Hands-On AI Consulting and Development:**
-    - Starting at $25,000
+    - Starting at $15,000
     - Complete hands-on development and implementation
     - All included services as detailed above
     - Custom scope and pricing based on project requirements
