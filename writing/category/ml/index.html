@@ -962,19 +962,23 @@
 <h3 id="evaluating-ai-suitability-technical-feasibility-and-business-value"><a class="toclink" href="../../2024/12/21/integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution/#evaluating-ai-suitability-technical-feasibility-and-business-value">Evaluating AI Suitability: Technical Feasibility and Business Value</a></h3>
 <p>Deciding which tasks merit automation or augmentation requires balancing <strong>technical feasibility</strong> (TF) with <strong>business value</strong> (BV). Consider:</p>
 <ol>
-<li><strong>Technical Feasibility (TF)</strong>  </li>
+<li><strong>Technical Feasibility (TF)</strong>  <ul>
 <li>Data availability and quality  </li>
 <li>Model complexity  </li>
 <li>Infrastructure readiness  </li>
+</ul>
+</li>
 </ol>
 <p>$$
    TF = f(\text{data quality}, \text{model complexity}, \text{infrastructure capacity})
    $$</p>
 <ol>
-<li><strong>Business Value (BV)</strong>  </li>
+<li><strong>Business Value (BV)</strong>  <ul>
 <li>Potential cost savings  </li>
 <li>Time-to-market improvement  </li>
 <li>Enhanced customer satisfaction  </li>
+</ul>
+</li>
 </ol>
 <p>$$
    BV = f(\text{cost reduction}, \text{operational efficiency}, \text{user satisfaction})
@@ -1012,14 +1016,14 @@ G --&gt; B</code></pre>
 <hr />
 <h4 id="1-map-out-current-workflows"><a class="toclink" href="../../2024/12/21/integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution/#1-map-out-current-workflows">1. Map Out Current Workflows</a></h4>
 <ol>
-<li><strong>Diagram Existing Processes</strong>  </li>
 <li>
-<p>Identify where repetitive tasks, information bottlenecks, or latency issues exist. These weak points are prime candidates for AI-driven optimization.</p>
+<p><strong>Diagram Existing Processes</strong><br />
+   Identify where repetitive tasks, information bottlenecks, or latency issues exist. These weak points are prime candidates for AI-driven optimization.</p>
 </li>
 <li>
-<p><strong>Pinpoint High-Impact Areas</strong>  </p>
+<p><strong>Pinpoint High-Impact Areas</strong><br />
+   Prioritize tasks based on your specific business objectives (e.g., improving customer satisfaction, reducing operational costs, or boosting conversion rates).</p>
 </li>
-<li>Prioritize tasks based on your specific business objectives (e.g., improving customer satisfaction, reducing operational costs, or boosting conversion rates).</li>
 </ol>
 <blockquote>
 <p><strong>Ask Yourself:</strong> <em>How many daily workflows in your organization could be automated or intelligently enhanced if given accurate predictions or personalized insights?</em></p>
@@ -1027,14 +1031,14 @@ G --&gt; B</code></pre>
 <hr />
 <h4 id="2-model-architecture-selection"><a class="toclink" href="../../2024/12/21/integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution/#2-model-architecture-selection">2. Model &amp; Architecture Selection</a></h4>
 <ol>
-<li><strong>Assess Complexity</strong>  </li>
 <li>
-<p>Determine whether a simpler ML technique (like logistic regression) suffices or whether a more advanced architecture—such as a Large Language Model (LLM) or RAG-based system—is necessary.</p>
+<p><strong>Assess Complexity</strong><br />
+   Determine whether a simpler ML technique (like logistic regression) suffices or whether a more advanced architecture—such as a Large Language Model (LLM) or RAG-based system—is necessary.</p>
 </li>
 <li>
-<p><strong>Align with Task Requirements</strong>  </p>
+<p><strong>Align with Task Requirements</strong><br />
+   Choose an approach that fits the nature of your data and the level of precision required. For tasks with limited data or narrow domains, a specialized model may outperform an overgeneralized one.</p>
 </li>
-<li>Choose an approach that fits the nature of your data and the level of precision required. For tasks with limited data or narrow domains, a specialized model may outperform an overgeneralized one.</li>
 </ol>
 <blockquote>
 <p><strong>Pro Tip:</strong> <strong>Start small</strong> with proof-of-concept models. Scale up your architecture only after initial results confirm that a more sophisticated technique is warranted.</p>
@@ -1042,19 +1046,21 @@ G --&gt; B</code></pre>
 <hr />
 <h4 id="3-data-preparation-flywheel-setup"><a class="toclink" href="../../2024/12/21/integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution/#3-data-preparation-flywheel-setup">3. Data Preparation &amp; Flywheel Setup</a></h4>
 <ol>
-<li><strong>Data Collection &amp; Cleaning</strong>  </li>
 <li>
-<p>Gather relevant datasets and standardize them (e.g., consistent formats, clear labeling). High-quality data is crucial for robust modeling.  </p>
+<p><strong>Data Collection &amp; Cleaning</strong><br />
+   Gather relevant datasets and standardize them (e.g., consistent formats, clear labeling). High-quality data is crucial for robust modeling.  </p>
 </li>
 <li>
 <p><strong>Design a Data Flywheel</strong>  </p>
-</li>
+<ul>
 <li><strong>What is a Data Flywheel?</strong><br />
-     A self-reinforcing loop in which <strong>every user interaction</strong> feeds back into the system, improving the model’s accuracy and user experience over time.  </li>
+  A self-reinforcing loop in which <strong>every user interaction</strong> feeds back into the system, improving the model's accuracy and user experience over time.  </li>
 <li><strong>How to Implement:</strong>  <ul>
 <li>Integrate <strong>user feedback loops</strong> (like thumbs-up/down or brief surveys) at key interaction points.  </li>
 <li>Capture <strong>usage patterns</strong> (e.g., click-through rates, dwell times, or purchase behaviors) to refine your model continuously.  </li>
 <li>Establish a <strong>pipeline</strong> that processes this data, retrains the model, and rolls out incremental updates in a seamless manner.</li>
+</ul>
+</li>
 </ul>
 </li>
 </ol>
@@ -1064,20 +1070,18 @@ G --&gt; B</code></pre>
 <hr />
 <h4 id="4-iterative-training-and-fine-tuning"><a class="toclink" href="../../2024/12/21/integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution/#4-iterative-training-and-fine-tuning">4. Iterative Training and Fine-Tuning</a></h4>
 <ol>
-<li><strong>Initial Training</strong>  </li>
 <li>
-<p>Train your model on curated, representative data. If using a Large Language Model or GenAI approach, consider domain-specific fine-tuning to capture the nuances of your industry.</p>
+<p><strong>Initial Training</strong><br />
+   Train your model on curated, representative data. If using a Large Language Model or GenAI approach, consider domain-specific fine-tuning to capture the nuances of your industry.</p>
 </li>
 <li>
-<p><strong>User Feedback Loop</strong>  </p>
+<p><strong>User Feedback Loop</strong><br />
+   Incorporate user interactions into your training pipeline. For instance, if customers frequently reject certain AI-generated suggestions, analyze that data to refine your models.</p>
 </li>
 <li>
-<p>Incorporate user interactions into your training pipeline. For instance, if customers frequently reject certain AI-generated suggestions, analyze that data to refine your models.</p>
+<p><strong>Progressive Enhancement</strong><br />
+   Roll out new model versions incrementally, monitoring performance metrics to validate improvements before a full-scale deployment.</p>
 </li>
-<li>
-<p><strong>Progressive Enhancement</strong>  </p>
-</li>
-<li>Roll out new model versions incrementally, monitoring performance metrics to validate improvements before a full-scale deployment.</li>
 </ol>
 <blockquote>
 <p><strong>Pro Tip:</strong> Make your retraining process <strong>modular</strong>. By structuring data flows in discrete steps, you can swap or upgrade models without overhauling the entire pipeline.</p>
@@ -1085,56 +1089,50 @@ G --&gt; B</code></pre>
 <hr />
 <h4 id="5-evaluation"><a class="toclink" href="../../2024/12/21/integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution/#5-evaluation">5. <strong>Evaluation</strong></a></h4>
 <ol>
-<li><strong>Define Quantitative Metrics</strong>  </li>
 <li>
-<p>Evaluate accuracy, precision, recall, or domain-specific metrics (e.g., customer satisfaction scores). Choose metrics that clearly indicate whether the AI solution meets your predefined objectives.</p>
+<p><strong>Define Quantitative Metrics</strong><br />
+   Evaluate accuracy, precision, recall, or domain-specific metrics (e.g., customer satisfaction scores). Choose metrics that clearly indicate whether the AI solution meets your predefined objectives.</p>
 </li>
 <li>
-<p><strong>Compare Against Baselines</strong>  </p>
+<p><strong>Compare Against Baselines</strong><br />
+   Test your model against non-AI methods or previously deployed systems. This helps quantify how much real value the new approach delivers.</p>
 </li>
 <li>
-<p>Test your model against non-AI methods or previously deployed systems. This helps quantify how much real value the new approach delivers.</p>
+<p><strong>Qualitative Assessments</strong><br />
+   Gather feedback from end users through interviews, surveys, or usability studies. Often, user sentiment reveals insights that raw numbers do not.</p>
 </li>
-<li>
-<p><strong>Qualitative Assessments</strong>  </p>
-</li>
-<li>Gather feedback from end users through interviews, surveys, or usability studies. Often, user sentiment reveals insights that raw numbers do not.</li>
 </ol>
 <hr />
 <h4 id="6-integration-deployment"><a class="toclink" href="../../2024/12/21/integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution/#6-integration-deployment">6. Integration &amp; Deployment</a></h4>
 <ol>
-<li><strong>Pilot Rollout</strong>  </li>
 <li>
-<p>Introduce your AI feature to a small group of users or an isolated business unit. Monitor performance, gather user feedback, and address potential roadblocks early.</p>
+<p><strong>Pilot Rollout</strong><br />
+   Introduce your AI feature to a small group of users or an isolated business unit. Monitor performance, gather user feedback, and address potential roadblocks early.</p>
 </li>
 <li>
-<p><strong>Broader Deployment</strong>  </p>
+<p><strong>Broader Deployment</strong><br />
+   Once the pilot demonstrates stable results, integrate the AI-driven solution into main workflows. Secure executive support and cross-functional buy-in to smooth the transition.</p>
 </li>
 <li>
-<p>Once the pilot demonstrates stable results, integrate the AI-driven solution into main workflows. Secure executive support and cross-functional buy-in to smooth the transition.</p>
+<p><strong>Change Management</strong><br />
+   Train your teams on new processes and clarifying the roles AI tools will play. Provide user-friendly documentation and ongoing support.</p>
 </li>
-<li>
-<p><strong>Change Management</strong>  </p>
-</li>
-<li>Train your teams on new processes and clarifying the roles AI tools will play. Provide user-friendly documentation and ongoing support.</li>
 </ol>
 <hr />
 <h4 id="7-ongoing-monitoring-continuous-improvement"><a class="toclink" href="../../2024/12/21/integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution/#7-ongoing-monitoring-continuous-improvement">7. Ongoing Monitoring &amp; Continuous Improvement</a></h4>
 <ol>
-<li><strong>Real-Time Analytics</strong>  </li>
 <li>
-<p>Track performance in production environments. Monitor latency, error rates, user engagement trends, and other operational metrics in near real-time.</p>
+<p><strong>Real-Time Analytics</strong><br />
+   Track performance in production environments. Monitor latency, error rates, user engagement trends, and other operational metrics in near real-time.</p>
 </li>
 <li>
-<p><strong>Automated Alerts &amp; Retraining</strong>  </p>
+<p><strong>Automated Alerts &amp; Retraining</strong><br />
+   Set thresholds for key performance indicators (KPIs). If a KPI deteriorates (e.g., user satisfaction drops below a set target), trigger a retraining cycle or escalate to human review.</p>
 </li>
 <li>
-<p>Set thresholds for key performance indicators (KPIs). If a KPI deteriorates (e.g., user satisfaction drops below a set target), trigger a retraining cycle or escalate to human review.</p>
+<p><strong>Data Flywheel in Action</strong><br />
+   Continuously ingest user behavior data and feedback, refining the model to amplify what works and correct what doesn’t. Over time, the product evolves to reflect user preferences more precisely, creating a <strong>virtuous cycle</strong> that strengthens your competitive edge.</p>
 </li>
-<li>
-<p><strong>Data Flywheel in Action</strong>  </p>
-</li>
-<li>Continuously ingest user behavior data and feedback, refining the model to amplify what works and correct what doesn’t. Over time, the product evolves to reflect user preferences more precisely, creating a <strong>virtuous cycle</strong> that strengthens your competitive edge.</li>
 </ol>
 <hr />
 <h3 id="putting-it-all-together"><a class="toclink" href="../../2024/12/21/integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution/#putting-it-all-together">Putting It All Together</a></h3>
