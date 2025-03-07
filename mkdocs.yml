@@ -82,6 +82,9 @@ extra:
       link: https://twitter.com/juanpml_
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/juan-pablo-mesa-lopez-1633b8148/
+  analytics:
+    provider: google
+    property: G-STKB6SZ61Y
 
 markdown_extensions:
   - pymdownx.highlight:
