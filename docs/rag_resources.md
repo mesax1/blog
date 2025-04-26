@@ -1,9 +1,24 @@
-# Retrieval Augmented Generation (RAG) resources
+# AI Products & Retrieval Augmented Generation (RAG) resources
 
-This is a collection of RAG resources, either informative blogposts or tutorials, along with tweets, youtube videos, short courses, etc, that I found useful at some point during my career.
+This is a collection of AI Products Development & Retrieval Augmented Generation (RAG) resources, either informative blogposts or tutorials, along with books, tweets, youtube videos, short courses, etc, that I have found useful at some point during my career.
 
 # Blogposts
 
+- [I'm sorry, but those are vanity evals](https://hex.tech/blog/im-sorry-but-those-are-vanity-evals/) By Izzy Miller, Hex Team, April, 2025
+
+- [A Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/) By Hamel Husain, March, 2025
+
+- [Evaluating RAG-enhanced LLM systems beyond model capabilities](https://juanpml.com/writing/2024/12/18/evaluating-rag-enhanced-llm-systems-beyond-model-capabilities/) By Juan Pablo Mesa Lopez (Myself), December, 2024
+
+- [Integrating ML and Generative AI into your business: start with the problem, not the solution](https://juanpml.com/writing/2024/12/21/integrating-ml-and-generative-ai-into-your-business-start-with-the-problem-not-the-solution/) By Juan Pablo Mesa Lopez (Myself), December, 2024
+
+- [Building AI Products—Part I: Back-end Architecture](https://philcalcado.com/2024/12/14/building-ai-products-part-i.html) By Phil Calçado, December, 2024
+
+- [Fine-Tuning in Sentence Transformers 3](https://www.aurelio.ai/learn/sentence-transformers-fine-tuning) By Juan Pablo Mesa Lopez (Myself), Aurelio, August, 2024
+
+- [Evaluating Chunking Strategies for Retrieval](https://research.trychroma.com/evaluating-chunking) By Chroma DB Team, July, 2024
+
+- [Improving Retrieval with LLM-as-a-Judge](https://blog.vespa.ai/improving-retrieval-with-llm-as-a-judge/) By Jo Kristian Bergum, Vespa, April, 2024
 
 - [Building a Multi-Hop QA on Global Warming Using DSPy and Qdrant](https://rito.hashnode.dev/building-a-multi-hop-qa-with-dspy-and-qdrant) By Rito, May, 2024
 
@@ -24,21 +39,32 @@ This is a collection of RAG resources, either informative blogposts or tutorials
 
 ### Practical guide to building successful LLM products
 
-By Eugene Yan, Bryan Bischof, Charles Frye, Hamel Husain, Jason Liu and Shreya Shankar
+By Eugene Yan, Bryan Bischof, Charles Frye, Hamel Husain, Jason Liu, and Shreya Shankar
 
-- [Tactical: What We Learned from a Year of Building with LLMs (Part I)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/) May, 2024
+- [Strategic: What We Learned from a Year of Building with LLMs (Part III)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/) June, 2024
 - [Operational: What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/) June, 2024
-- [Strategis: What We Learned from a Year of Building with LLMs (Part III)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/) June, 2024
+- [Tactical: What We Learned from a Year of Building with LLMs (Part I)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/) May, 2024
+
+
 
 ## Blogs from [Jason Liu](https://jxnl.co/writing/category/rag)
 
-- [RAG is more than just embedding search](https://jxnl.co/writing/2023/09/17/rag-is-more-than-embeddings/) September, 2023
-- [How to build a terrible RAG system](https://jxnl.co/writing/2024/01/07/inverted-thinking-rag/) January, 2024
+- [Systematically Improving Your RAG](https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/) May, 2024
 - [Stop using LGTM@Few as a metric (Better RAG)](https://jxnl.co/writing/2024/02/05/when-to-lgtm-at-k/) February, 2024
 - [Levels of Complexity: RAG Applications](https://jxnl.co/writing/2024/02/28/levels-of-complexity-rag-applications/) February, 2024
-- [Systematically Improving Your RAG](https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/) May, 2024
+- [How to build a terrible RAG system](https://jxnl.co/writing/2024/01/07/inverted-thinking-rag/) January, 2024
+- [RAG is more than just embedding search](https://jxnl.co/writing/2023/09/17/rag-is-more-than-embeddings/) September, 2023
+
+# Books
+
+- [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) by Chip Huyen, December, 2024
+- [Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/) by John Berryman and Albert Ziegler, November, 2024
+- [LLM Engineer's Handbook](https://www.oreilly.com/library/view/llm-engineers-handbook/9781836200079/)by Paul Iusztin and Maxime Labonne, October, 2024
+
 
 # Tutorials
+
+- [The Definitive Guide to LLM Evaluation](https://arize.com/llm-evaluation) By Arize Team, April, 2025
 
 # Tweets
 
