@@ -26,8 +26,10 @@ If you have questions about LLMs and RAG integrations, machine learning, or data
 
 | Client                                        | Description                                                                                                                 | Industry              |
 |-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| [Xficient](https://xficient.com/){:target="_blank"}        | AI-powered healthcare documentation administration                    | Healthcare|
+| [WellAware](https://wellaware.us/){:target="_blank"}        | Industrial automation and data analytics solutions                  | Oil & Gas|
+| [Proscai](https://www.proscai.com/){:target="_blank"}        | ERP solutions for your business                         | ERP, Sales, and Automation|
 | [Anaconda Org](https://anaconda.org/)        | Platform that provides data science tools, MLOps, and data & model management.                         | AI, Data, & Developer Tools|
-| [Xficient](https://xficient.com/)        | AI-powered healthcare documentation administration                    | Healthcare|
 | [Bonded LP](https://www.bondedlp.com/)        | Design, installation, inspection, and certification of lightning protection systems                                              | Construction and safety|
 | [Emerge Haus](https://www.emerge.haus/)       | AI company that offers end-to-end services for developing and launching AI products and solutions                           | AI & Software Development                   |
 | [Pentimenti.ai](https://www.pentimenti.ai/)    | Platform that specializes in developing AI solutions to simplify and streamline the sales and tender process.  | AI / Sales            |

@@ -25,8 +25,10 @@ If you're asking yourself any of these questions, you're in the right place.
 
 | Client                                        | Description                                                                                                                 | Industry              |
 |-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|
-| [Anaconda Org](https://anaconda.org/){:target="_blank"}        | Platform that provides data science tools, MLOps, and data & model management.                         | AI, Data, & Developer Tools|
 | [Xficient](https://xficient.com/){:target="_blank"}        | AI-powered healthcare documentation administration                    | Healthcare|
+| [WellAware](https://wellaware.us/){:target="_blank"}        | Industrial automation and data analytics solutions                  | Oil & Gas|
+| [Proscai](https://www.proscai.com/){:target="_blank"}        | ERP solutions for your business                         | ERP, Sales, and Automation|
+| [Anaconda Org](https://anaconda.org/){:target="_blank"}        | Platform that provides data science tools, MLOps, and data & model management.                         | AI, Data, & Developer Tools|
 | [Bonded LP](https://www.bondedlp.com/){:target="_blank"}        | Design, installation, inspection, and certification of lightning protection systems                                              | Construction and safety|
 | [Emerge Haus](https://www.emerge.haus/){:target="_blank"}       | AI company that offers end-to-end services for developing and launching AI products and solutions                           | AI & Software Development                   |
 | [Pentimenti.ai](https://www.pentimenti.ai/){:target="_blank"}    | Platform that specializes in developing AI solutions to simplify and streamline the sales and tender process.  | AI / Sales            |
