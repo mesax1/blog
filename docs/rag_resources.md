@@ -64,7 +64,7 @@ By Eugene Yan, Bryan Bischof, Charles Frye, Hamel Husain, Jason Liu, and Shreya 
 
 # Tutorials
 
-- [The Definitive Guide to LLM Evaluation](https://arize.com/llm-evaluation) By Arize Team, April, 2025
+- [The Definitive Guide to LLM Evaluation](https://arize.com/llm-evaluation) By Arize Team
 
 # Tweets
 
