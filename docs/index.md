@@ -6,7 +6,7 @@ If you have questions about LLMs and RAG integrations, machine learning, or data
 
 ---
 
-## AI Consulting: From Concept to Production
+## On-Demand AI Consulting: From Concept to Production
 
 **Struggling to turn your AI ideas into reality?** I specialize in helping startups and established tech companies bridge the gap between AI concepts and production-ready solutions. My clients leverage my expertise in **LLMs, RAG, Search, Evaluations, Recommendation systems, and data-driven decision-making** to achieve tangible business outcomes.
 

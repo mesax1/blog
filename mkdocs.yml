@@ -1,7 +1,6 @@
-site_name: juanpml.com
+site_name: Juan Pablo Mesa Lopez | On-Demand AI Consulting
 site_author: Juan Pablo Mesa Lopez
-site_description: >-
-  Applied AI Consulting, ML, LLMs, RAG, and more.
+site_description: Expert on-demand AI consulting services specializing in LLMs, RAG systems, and AI strategy for businesses of all sizes.
 
 repo_name: blog
 repo_url: https://github.com/mesax1/blog/
@@ -82,6 +81,8 @@ extra:
       link: https://twitter.com/juanpml_
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/juan-pablo-mesa-lopez-1633b8148/
+  
+  
   analytics:
     provider: google
     property: G-STKB6SZ61Y

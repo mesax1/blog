@@ -1,6 +1,10 @@
-# AI Consulting Services
+# On-Demand AI Consulting & Project Services
 
-Are you a Founder, CTO, or Tech leader grappling with these AI challenges?
+Are you a Founder, CTO, or Tech leader looking for **on-demand AI consulting** to solve your most pressing challenges? Get expert guidance when you need it, without the overhead of a full-time hire.
+
+## AI Consulting On-Demand: Flexible Support For Your Business
+
+My on-demand AI consulting service provides you with expert guidance exactly when you need it. Whether you're implementing RAG systems, optimizing LLMs, or developing an AI strategy, I offer flexible engagement models designed for your specific needs.
 
 *   "We want to leverage AI within our company, **where can we start?**"
 *   "How can we **move our AI prototypes to production** effectively?"
