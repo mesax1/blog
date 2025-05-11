@@ -4,6 +4,8 @@ This is a collection of AI Products Development & Retrieval Augmented Generation
 
 # Blogposts
 
+- [Everything I'll forget about Evals](https://olickel.com/everything-about-evals){:target="_blank"} By Hrishi Olickel, May, 2025
+
 - [I'm sorry, but those are vanity evals](https://hex.tech/blog/im-sorry-but-those-are-vanity-evals/){:target="_blank"} By Izzy Miller, Hex Team, April, 2025
 
 - [A Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/){:target="_blank"} By Hamel Husain, March, 2025
