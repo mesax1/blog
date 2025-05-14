@@ -2,6 +2,10 @@
 
 This is a collection of AI Products Development & Retrieval Augmented Generation (RAG) resources, either informative blogposts or tutorials, along with books, tweets, youtube videos, short courses, etc, that I have found useful at some point during my career.
 
+# Paid Courses
+
+- [Build Better LLM Applications](https://maven.com/arcturus-labs/build-better-llm-applications){:target="_blank"} By John Berryman, Arcturus Labs
+
 # Blogposts
 
 - [Everything I'll forget about Evals](https://olickel.com/everything-about-evals){:target="_blank"} By Hrishi Olickel, May, 2025
@@ -65,6 +69,7 @@ By Eugene Yan, Bryan Bischof, Charles Frye, Hamel Husain, Jason Liu, and Shreya 
 # Tutorials
 
 - [The Definitive Guide to LLM Evaluation](https://arize.com/llm-evaluation){:target="_blank"} By Arize Team
+
 
 # Tweets
 
